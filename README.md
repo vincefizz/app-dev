@@ -1,5 +1,5 @@
 # app-dev
-*italicized text*
+*movie quotes*
 - If you ain't first, you're last
 - Shake and bake
 - I'm dropping the hammer
